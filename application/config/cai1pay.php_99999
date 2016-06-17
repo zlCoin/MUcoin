@@ -1,0 +1,17 @@
+<?php
+$config['mer_code']= '10118901';
+
+$config['mer_key']= 'zVZUl9RAcb2MfVhez3kvAUJkIzHsl5YDB4XLTUaFKFZjIYK3BaXqgkS5lOmMR9z6cPlBXvl424AUUA2JEnGk7I60C2AfIoNlq3hSNj6qP2NCAXBBv2iESoYutKZ5LgMo';
+
+$config['currency_type']= 'RMB';
+
+$config['gateway_type']= '01';
+
+$config['lang']= 'GB';
+
+$config['order_encode_type']= '2';
+
+$config['ret_encode_type']= '12';
+
+$config['rettype']= '1';
+?>
